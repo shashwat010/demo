@@ -1,0 +1,9 @@
+.card-right{
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    right: 5px;
+    top:5px;
+    font-size:0.8rem;
+    font-weight:700
+}

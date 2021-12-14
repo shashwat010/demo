@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is having a component which is lazy loaded for that throttle your network to slow 3G or more slower network.
+
 ## Available Scripts
 
 In the project directory, you can run:
